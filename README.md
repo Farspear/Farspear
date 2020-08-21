@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janis Muizhnieks</h1>
-<h3 align="center">Passionate software developer from Riga, Latvia</h3>
+<h3 align="center">Passionate software developer from Riga, Latvia. Learning programming and working towards becoming a full-time software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farspear" alt="farspear" /> </p>
 
