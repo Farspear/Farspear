@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janis Muizhnieks</h1>
-<h3 align="center">Passionate software developer from Riga, Latvia. Learning programming and working towards becoming a full-time software developer.</h3>
+<h3 align="center">I'm from Riga, Latvia and my passion is programming. Learning programming and working towards becoming a full-time software developer.</h3>
 
 - 🔭 I’m currently working on **C# based bug tracking tool**
 
