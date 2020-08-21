@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, SQL, SOLID, Entity, .NET**
 
-- 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#**
+- 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#, React**
 
 - 💬 Ask me about **HTML, CSS, JS, TS, C#**
 
