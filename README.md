@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janis Muiznieks</h1>
-<h3 align="center">Passionate software developer.</h3>
+<h3 align="center">Passionate software developer. Always learning something new wand expanding my expertise.</h3>
 
 - 🔭 I’m currently working on **C# based bug tracking tool**
 
