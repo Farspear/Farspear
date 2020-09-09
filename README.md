@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
 
+<h3 align="center">I'm Janis Muiznieks, a passionate software developer.</h3>
+<h3 align="center">Always learning something new and expanding my expertise.</h3>
 
-
-<h3 align="center">I'm Janis Muiznieks, a passionate software developer. Always learning something new and expanding my expertise.</h3>
 
 - 🔭 I’m currently working on **C# based bug tracking tool**
 
