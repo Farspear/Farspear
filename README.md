@@ -1,5 +1,5 @@
 <div align="center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=60">
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=60)
 
 <h3 align="center">I'm Janis Muiznieks, a passionate software developer. Always learning something new and expanding my expertise.</h3>
 
