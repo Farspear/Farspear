@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#, React**
 
-- 💬 Ask me about **HTML, CSS, JS, TS, C#**
+- 💬 Ask me about **HTML, CSS, JS, TS, C#, .NET**
 
 - 📫 How to reach me **janis@farspear.com**
 <br>
