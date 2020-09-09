@@ -1,4 +1,3 @@
-<div align="center>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=60)
 
 <h3 align="center">I'm Janis Muiznieks, a passionate software developer. Always learning something new and expanding my expertise.</h3>
@@ -17,6 +16,4 @@
 <a href="https://dev.to/farspear" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="farspear" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/m-janis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/m-janis" height="30" width="30" /></a>
 </p>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-</div>
