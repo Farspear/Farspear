@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
 
-
-<div style="text-align:center"><img src="https://github.com/Farspear/Farspear/blob/master/farspear-welcome.gif" alt="Welcome!" width="126" height="40"/></div>
-
-
+<p align="center"><a href="https://github.com/farspear"><img src="https://github.com/Farspear/Farspear/blob/master/farspear-welcome.gif" alt="Welcome!" width="126" height="40"/></a></p>
 
 <h3 align="center">I'm Janis Muiznieks, a passionate software developer.<br>Always learning something new and expanding my expertise.</h3>
 <br>
