@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm Janis Muiznieks, a passionate software developer.<br>Always learning something new and expanding my expertise.</h3>
 <br>
-<br>
+
 - 🔭 I’m currently working on **C# based bug tracking tool**
 
 - 🌱 I’m currently learning **C#, SQL, SOLID, Entity, .NET**
