@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20👋&fontSize=90&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20👋&fontSize=90&fontAlignY=35)
 
 <p align="center"><a href="https://github.com/farspear"><img src="https://github.com/Farspear/Farspear/blob/master/farspear-welcome.gif" alt="Welcome!" width="126" height="40"/></a></p>
 
