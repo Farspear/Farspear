@@ -3,7 +3,6 @@
 <p align="center"><a href="https://github.com/farspear"><img src="https://github.com/Farspear/Farspear/blob/master/farspear-welcome.gif" alt="Welcome!" width="126" height="40"/></a></p>
 
 <h3 align="center">I'm Janis Muiznieks, a passionate software developer.<br>Always learning something new and expanding my expertise.</h3>
-<br>
 
 - 🔭 I’m currently working on **C# based bug tracking tool**
 
