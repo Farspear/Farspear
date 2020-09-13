@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20👋&fontSize=90&fontAlignY=35)
+//![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20👋&fontSize=90&fontAlignY=35)
 
 <p align="center"><a href="https://github.com/farspear"><img src="https://github.com/Farspear/Farspear/blob/master/farspear-welcome.gif" alt="Welcome!" width="126" height="40"/></a></p>
 
@@ -21,4 +21,4 @@
 <a href="https://linkedin.com/in/m-janis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/m-janis" height="30" width="30" /></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+//![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
