@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Multiple projects**
 
-- 🌱 I’m currently learning **C#, SQL, SOLID, Entity, .NET, React**
+- 🌱 I’m currently learning **C#, SQL, SOLID, Entity, .NET, VueJS, React**
 
 - 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#, React**
 
