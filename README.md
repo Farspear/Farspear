@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, SQL, SOLID, Entity, .NET, VueJS, React**
 
-- 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#, React**
+- 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#, VueJS, React**
 
 - 💬 Ask me about **HTML, CSS, JS, TS, C#, .NET**
 
