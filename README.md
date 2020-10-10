@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **Multiple projects**
 
-- 🌱 I’m currently learning **C#, SQL, SOLID, Entity, .NET, VueJS, React**
+- 👯 I’m looking to collaborate on **open source projects**
 
-- 👯 I’m looking to collaborate on **projects using HTML, CSS, JS, TS, C#, VueJS, React**
-
-- 💬 Ask me about **HTML, CSS, JS, TS, C#, .NET**
+- 💬 Ask me about **HTML, CSS, JS, TS, C#, .NET, Ruby, Entity, Ruby on Rails, VueJS, React,**
 
 - 📫 How to reach me **janis@farspear.com**
 
