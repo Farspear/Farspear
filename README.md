@@ -4,10 +4,6 @@
 <h3 align="center">I'm Janis Muiznieks, a passionate and driven software developer.<br>Always learning something new and expanding my expertise.</h3>
 <br>
 
-- 🔭 I’m currently working on **Multiple projects**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 💬 Ask me about **HTML, CSS, JS, TS, C#, .NET, Ruby, Entity, Ruby on Rails, VueJS, React,**
 
 - 📫 How to reach me **janis@farspear.com**
