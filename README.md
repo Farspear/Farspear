@@ -4,7 +4,7 @@
 <h3 align="center">I'm Janis Muiznieks, a passionate and driven software developer.<br>Always learning something new and expanding my expertise.</h3>
 <br>
 
-- 💬 Ask me about **HTML, CSS, JS, TS, C#, .NET, Entity, Ruby, Ruby on Rails, VueJS, React,**
+- 💬 Ask me about **Ruby, Ruby on Rails, C#, .NET, Entity, HTML, CSS, JS, TS,  VueJS, React,**
 
 - 📫 How to reach me **janis@farspear.com**
 
