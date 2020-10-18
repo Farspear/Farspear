@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://github.com/farspear"><img src="https://github.com/Farspear/Farspear/blob/master/farspear-welcome.gif" alt="Welcome!" width="126" height="40"/></a></p>
 
-<h3 align="center">I'm Janis Muiznieks, a passionate and driven software developer.<br>Always learning something new and expanding my expertise.</h3>
+<h3 align="center">I'm Janis, a passionate and driven software developer.<br>Always learning something new and expanding my expertise.</h3>
 <br>
 
 
