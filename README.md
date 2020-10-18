@@ -4,7 +4,6 @@
 <h3 align="center">I'm Janis Muiznieks, a passionate and driven software developer.<br>Always learning something new and expanding my expertise.</h3>
 <br>
 
-- 💬 Ask me about **Ruby, Ruby on Rails, C#, .NET, Entity, HTML, CSS, JS, TS,  VueJS, React,**
 
 <br>    
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img
