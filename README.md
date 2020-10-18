@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails, C#, .NET, Entity, HTML, CSS, JS, TS,  VueJS, React,**
 
-- 📫 How to reach me **janis@farspear.com**
-
 <br>    
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img
 src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img
